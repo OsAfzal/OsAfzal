@@ -8,8 +8,7 @@ I specialize in **spatial analysis, remote sensing, and geospatial application d
 - Develop advanced geospatial solutions using **ArcGIS Pro, QGIS, GDAL, PostGIS, and Python**
 - Built and maintained Python packages such as:
   - `npstat` — statistical tools for spatial data  
-  - `airpy` — air quality analysis utilities  
-  - `landsat_ee` — Landsat data processing with Google Earth Engine  
+
 - Leverage **cloud platforms** like Google Earth Engine (GEE), Microsoft Azure, and AWS to process and analyze **large-scale geospatial datasets**
 - Integrate **AI/ML techniques** to extract meaningful insights from spatial data and enhance geospatial workflows
 
