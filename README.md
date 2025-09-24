@@ -1,4 +1,4 @@
-# Hi there, I'm Os Afzal 👋
+# Hi there, I'm Muhammad Usman 👋
 
 ## 🌍 Geospatial Developer | 🤖 AI/ML Engineer
 
@@ -17,7 +17,9 @@ I specialize in **spatial analysis, remote sensing, and geospatial application d
 - **Geospatial Tools:** ArcGIS Pro, QGIS, GDAL, PostGIS  
 - **Programming & Scripting:** Python, SQL, Jupyter Notebooks  
 - **Cloud Platforms:** Google Earth Engine, Microsoft Azure, AWS  
-- **AI/ML:** Machine Learning, Deep Learning, Spatial Data Modeling
+- **AI/ML Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras  
+- **Deep Learning & Spatial Modeling:** CNNs, RNNs, LSTMs for spatial-temporal data analysis  
+- **High-Performance Computing:** GPU acceleration using NVIDIA CUDA, cuDNN, and TensorRT for scalable ML training and inference  
 
 ### Always Innovating & Sharing Knowledge
 I’m passionate about pushing the boundaries of geospatial tech and sharing my insights with the community.
