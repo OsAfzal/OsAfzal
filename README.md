@@ -26,7 +26,7 @@ I’m passionate about pushing the boundaries of geospatial tech and sharing my 
 ---
 
 📍 Connect with me:  
-[Website](https://OsAfzal.github.io) | [Facebook](https://facebook.com/OsAfzal) | [Instagram](https://instagram.com/OsAfzal) | [Twitter](https://twitter.com/OsAfzal) | [YouTube](https://youtube.com/OsAfzal)
+[Website](https://OsAfzal.me) | [Facebook](https://facebook.com/OsAfzal) | [Instagram](https://instagram.com/OsAfzal) | [Twitter](https://twitter.com/OsAfzal) | [YouTube](https://youtube.com/OsAfzal)
 
 ---
 
